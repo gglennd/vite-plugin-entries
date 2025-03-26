@@ -82,7 +82,7 @@ export default function entries({
   rollupOptions = {},
 }: Props): Plugin {
   return {
-    name: "@gglennd/vite-plugin-entries",
+    name: "@glenndev/vite-plugin-entries",
     /**
      * Vite plugin configuration hook.
      * @returns {UserConfig} Partial Vite config.

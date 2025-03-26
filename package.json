@@ -1,6 +1,6 @@
 {
   "name": "@glenndev/vite-plugin-entries",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A vite plugin for managing entry points.",
   "type": "module",
   "main": "dist/index.cjs",
